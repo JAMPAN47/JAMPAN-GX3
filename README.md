@@ -15,4 +15,4 @@
   <img src="https://img.shields.io/github/watchers/JAMPAN47/JAMPAN-GX3?style=for-the-badge&label=Watchers" alt="Watchers"/>
 </div>
 </a></p>
-- <a href="https://sociabuzz.com/frediezra255" target="_blank"><img src="https://img.shields.io/badge/Buy_Me_A_Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" width="240" height="39px" alt="Sociabuzz"></a>
+- <a href="https://sociabuzz.com/jampan47/donate" target="_blank"><img src="https://img.shields.io/badge/Buy_Me_A_Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" width="240" height="39px" alt="Sociabuzz"></a>
