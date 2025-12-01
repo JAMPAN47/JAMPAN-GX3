@@ -25,7 +25,7 @@
 **1. First step**
 
 <p align="left">
-<a href='https://github.com/chugastan/CHUGA-XMD-/fork' target="_blank"><img alt='Fork Repo' src='https://img.shields.io/badge/-Fork Repo-blue?style=for-the-badge&logo=github&logoColor=white'/< width=130 height=40/p></a>
+<a href='https://github.com/JAMPAN47/JAMPAN-GX3/fork' target="_blank"><img alt='Fork Repo' src='https://img.shields.io/badge/-Fork Repo-blue?style=for-the-badge&logo=github&logoColor=white'/< width=130 height=40/p></a>
 	
 **2.Get your session ID here**
  
@@ -36,12 +36,12 @@
 --------	 
 1.  #### DEPLOY IN HEROKU 
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://dashboard.heroku.com/new-app?template=https://github.com/chugastanchugaman-lgtm/CHUGA-XMD)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://dashboard.heroku.com/new-app?template=https://github.com/JAMPAN47-lgtm/JAMPAN-GX3)
 
 --------
 2.  #### DEPLOY IN REPLIT
 
-   <a href='https://repl.it/github.com/chugastanchugaman-lgtm/CHUGA-XMD' target="_blank"><img alt='DEPLOY' src='https://img.shields.io/badge/-REPLIT-orange?style=for-the-badge&logo=replit&logoColor=white'/></a>
+   <a href='https://repl.it/github.com/JAMPAN47-lgtm/JAMPAN-GX3' target="_blank"><img alt='DEPLOY' src='https://img.shields.io/badge/-REPLIT-orange?style=for-the-badge&logo=replit&logoColor=white'/></a>
 
 --------
 
