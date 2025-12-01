@@ -10,3 +10,4 @@
 
 <img src="https://i.imgur.com/dBaSKWF.gif" height="90" width="100%">
 
+<p align="centre"><img src="https://files.catbox.moe/zi61ce.jpg" width="500" height="500" />
