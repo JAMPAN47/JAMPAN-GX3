@@ -50,3 +50,5 @@
 <a href='https://dashboard.render.com' target="_blank"><img alt='DEPLOY' src='https://img.shields.io/badge/RENDER-h?color=maroon&style=for-the-badge&logo=render'/></a></p>
 
 --------
+</p> <p align="center">
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Rubik+Dirt&size=65&pause=1000&color=F92C43F&background=FF20A500&center=true&vCenter=true&width=1000&height=150&lines=JAMPAN-GX3;MADE+BY+KELVIN" alt="Typing SVG" /></a>
