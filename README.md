@@ -50,5 +50,22 @@
 <a href='https://dashboard.render.com' target="_blank"><img alt='DEPLOY' src='https://img.shields.io/badge/RENDER-h?color=maroon&style=for-the-badge&logo=render'/></a></p>
 
 --------
+</details>
+
+<details>
+<summary>📞𝗖𝗢𝗡𝗧𝗔𝗖𝗧 𝗠𝗘📞</summary>
+  For Help And Developer Join As Here ✔️
+<a href='https://whatsapp.com/channel/0029Vb8DGUCDDmFTDzBKDf2j' target="_grey"><img alt='WHATSAPP' src='https://img.shields.io/badge/WhatsApp Channel Support-grey?style=for-the-badge&logo=whatsapp&logoColor=green'/></a>
+<a href='https://chat.whatsapp.com/Fw09efkIK2q70TcCgBJRIm?mode=hqrt2' target="_grey"><img alt='WHATSAPP' src='https://img.shields.io/badge/Join WhatsApp Group-grey?style=for-the-badge&logo=whatsapp&logoColor=green'/></a>
+<a href='https://wa.me/255674229015' target="_grey"><img alt='WHATSAPP' src='https://img.shields.io/badge/Wa Me Here-grey?style=for-the-badge&logo=whatsapp&logoColor=green'/></a>
+<a href='https://https://www.youtube.com/@JAMPAN-XDM' target="_grey"><img alt='YOUTUBE' src='https://img.shields.io/badge/Tutorial Here In Youtube-grey?style=for-the-badge&logo=youtube&logoColor=red'/></a>
+<a href='t.me/CyberGeel_101' target="_grey"><img alt='TELEGRAM' src='https://img.shields.io/badge/Telegram For Dev-grey?style=for-the-badge&logo=telegram&logoColor=blue'/></a>
+<a href='https://t.me/+u3zlb5y6OfxhOTdk' target="_grey"><img alt='TELEGRAM' src='https://img.shields.io/badge/Telegram Group-grey?style=for-the-badge&logo=Telegram&logoColor=blue'/></a>
+<a href='https://www.linkedin.com/in/fredi-ezra-6956352b7' target="_grey"><img alt='LINKEDIN' src='https://img.shields.io/badge/LinkedIn For Dev-grey?style=for-the-badge&logo=linked-In&logoColor=blue'/></a>
+<a href='https://www.tiktok.com/@jampan47' target="_grey"><img alt='TIKTOK' src='https://img.shields.io/badge/TikTok For Dev-grey?style=for-the-badge&logo=tiktok&logoColor=black'/></a>
+<a href='https://www.facebook.com/share/1FgwpvQgJr/' target="_grey"><img alt='FACEBOOK' src='https://img.shields.io/badge/Facebook For Dev-grey?style=for-the-badge&logo=facebook&logoColor=blue'/></a>
+<a href='https://www.instagram.com/kelvin.jampan' target="_grey"><img alt='INSTAGRAM' src='https://img.shields.io/badge/Instagram For Dev-grey?style=for-the-badge&logo=instagram&logoColor=purple'/></a>
+  <a href='https://www.threads.net/@kelvin.jampan' target="_grey"><img alt='THREADS' src='https://img.shields.io/badge/Threads For Dev-grey?style=for-the-badge&logo=threads&logoColor=black'/></a>
+</details>
 </p> <p align="center">
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Rubik+Dirt&size=65&pause=1000&color=F92C43F&background=FF20A500&center=true&vCenter=true&width=1000&height=150&lines=JAMPAN-GX3;MADE+BY+KELVIN" alt="Typing SVG" /></a>
